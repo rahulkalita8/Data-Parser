@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2013-02-11",
+    "open": 55.32,
+    "close": 54.98,
+    "volume": 1318592,
+    "Name": "EFX",
+    "difference_value": 0.34
+  },
+  {
+    "date": "2013-02-08",
+    "open": 55.84,
+    "close": 55.56,
+    "volume": 2228853,
+    "Name": "EFX",
+    "difference_value": 0.28
+  }
+]
